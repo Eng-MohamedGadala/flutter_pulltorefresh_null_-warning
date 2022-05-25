@@ -56,7 +56,7 @@ class _MainActivityState extends State<MainActivity>
     views = [
       IndicatorPage(title: "指示器界面"),
       ExamplePage(),
-      TestPage(title: "测试界面"),
+      TestPage(label: "测试界面"),
     ];
   }
 
